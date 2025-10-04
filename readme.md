@@ -36,7 +36,7 @@ The goal of this report is to analyze how pricing and services (like online deli
 ## 📸 Dashboard Preview
 Below is a screenshot of the Power BI dashboard:
 
-![Finance Dashboard](ffaa480a-3a74-4c9c-ad6d-d6fb1f21eff8.png)
+![Finance Dashboard](Finance_Dashboard_Img.png)
 
 ---
 
